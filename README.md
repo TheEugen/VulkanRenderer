@@ -1,6 +1,6 @@
 # 🎮 VulkanRenderer
 
-A C++ Vulkan renderer built from scratch as a learning project, implementing the full rendering pipeline from instance creation to per-frame presentation. Loads `.obj` meshes and textures, supports multiple rendering modes, and renders in real time via a GLFW event loop. Inspired by [niagara](https://github.com/zeux/niagara) and the *Vulkan Cookbook* by Pawel Lapinski.
+A C++ Vulkan renderer based on [niagara](https://github.com/zeux/niagara) and the *Vulkan Cookbook* by Pawel Lapinski as a learning project, implementing the full rendering pipeline from instance creation to per-frame presentation. Loads `.obj` meshes and textures, supports multiple rendering modes, and renders in real time via a GLFW event loop. 
 
 ---
 
